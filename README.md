@@ -1,6 +1,6 @@
 # ABA
 
-An executable program to solve BA problems with some datasets. Should work under Ubuntu OS and need minimum 8G of memory.
+An executable program to solve BA problems with some datasets. Should work on an Ubuntu OS with minimum 8G of memory.
 
 The source code will be open SOON.
 
